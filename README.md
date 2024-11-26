@@ -70,4 +70,5 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 - php artisan migrate
 - php artisan server 
 - run on http://127.0.0.1:8000
+if u can't run, pls import file sql in folder DB
 # HOW TO RUN 
